@@ -15,7 +15,7 @@
 							<div class="col-md-8 text-left">
 								<h3 class="light white"><img src="img/logo3.png" class="img-responsive"></h3>
 								<h2 style="color:#FFFFFF">Consolidated Electric Power Asia Limited</h2>
-								<h5 style="text-decoration: none; color:#FFFFFF">PAGBILAO 650MW CCPP O&M PROJECT</h5>
+								<p style="text-decoration: none; color:#FFFFFF"><small>PAGBILAO 650MW CCPP O&M PROJECT</small></p>
 							</div>
 					</div>
 				</div>

@@ -8,11 +8,20 @@
       <div class="col-md-4 col-sm-6 footer-nav">
           <h4>Navigation</h4>
                 <ul class="list">
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About Us</a></li>
-                    <li><a href="projects.php">Projects</a></li>
-                    <li><a href="investor-centre.php">Investor Centre</a></li>
-                    <li><a href="contact-us.php">Contact Us</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="services.php">Services</a></li>
+                  <li class="dropdown">
+                          <a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown-toggle" data-delay="0" data-close-others="false">Projects<i class="fa fa-angle-down"></i></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="project_location.php">Project Location & Descriptopn</a></li>
+                             <li><a href="gas-turbine-management.php">Gas Turbine Management</a></li>
+                             <li><a href="steam-turbine-management.php">Steam Turbine Management</a></li>
+                             <li><a href="hrsg-management.php">HRSG Management</a></li>
+                             <li><a href="switch-yard-management.php">Switch Yard Management</li>
+                             <li><a href="balance-of-plant-store.php">Balance of Plant Store</a></li>
+                          </ul>
+                        </li>
+                  <li><a href="contact-us.php">Contact Us</a></li>
                 </ul>
        </div>
 
